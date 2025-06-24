@@ -18,7 +18,7 @@ A fun little SVG animation project — a birthday cake with frosting and animate
 ![Preview of SVG cake animation](preview.png)
 
 ## 📁 How to Run
-Just open index.html in your browser!
+Just open birthday-cake.html in your browser!
 
 ## 🎁 Inspired by
 Made as part of my learning and creative exploration of SVG animation
